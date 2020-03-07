@@ -1,0 +1,12 @@
+venv
+*.pyc
+__pycache__
+TrafficCrashesChicago.csv
+ChicagoCrashesPerHour2.csv
+.vscode
+.ipynb_checkpoints
+.Rproj.user
+.Rhistory
+.pytest_cache
+
+packrat/lib*/
